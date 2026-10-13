@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex macOS gh TLS"
+  short_description: "Diagnose and fix gh TLS failures in Codex on macOS"
+  default_prompt: "Use $codex-macos-gh-tls to diagnose and repair gh TLS errors in Codex on macOS."
